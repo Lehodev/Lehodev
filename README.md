@@ -3,4 +3,4 @@ I'm currently working as a Technical Consultant and trying to master Unity in my
 ## About me
 - I studied Computer Science BSc in Hungary, graduated in 2023.🎓
 - I'm working at Quickborn Consulting LLC as Junior Technical Consultant.💻
-- My goals are to perfectly learn: Unity and Web Development.👾
+- My goals are to perfectly learn Unity and Mobile Development.👾
